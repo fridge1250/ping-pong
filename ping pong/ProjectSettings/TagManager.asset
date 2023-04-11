@@ -4,10 +4,12 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - wall
-  - wall1
-  - wall2
-  - bol
+  - Ball
+  - Wall
+  - LeftWall
+  - RightWall
+  - BottomWall
+  - TopWall
   layers:
   - Default
   - TransparentFX
