@@ -10,6 +10,8 @@ TagManager:
   - RightWall
   - BottomWall
   - TopWall
+  - DEAD
+  - gg
   layers:
   - Default
   - TransparentFX
